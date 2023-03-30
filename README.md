@@ -7,7 +7,9 @@ For this project, I utilized a neural network machine-learning model using the s
 ## Results
 •	Data Preprocessing
 o	The chosen target for the model was the "IS_SUCCESSFUL" variable.
-![ann1](https://user-images.githubusercontent.com/106359564/228892641-860d157a-6100-49e4-b156-2e914d5c8c86.png)
+<img width="532" alt="ann11" src="https://user-images.githubusercontent.com/106359564/228979529-40db0025-c014-44d2-b729-fc462b1392d2.png">
+
+
 
 o	The variables chosen as features for the model were: "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "STATUS", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT".
 
@@ -25,8 +27,9 @@ o	There were two hidden layers chosen for the model. The first layer had 80 neur
 
 o	My original model was only able to receive an accuracy score of 72.5%. After making changes for my second attempt, I was able to achieve a target performance of over 75%. The final accuracy score of the model was 78%.
 
-!<img width="540" alt="ann9" src="https://user-images.githubusercontent.com/106359564/228978430-b073a1a3-0ba5-4f46-be34-e11b8611a7fb.png">
-![ann4](https://user-images.githubusercontent.com/106359564/228893530-412aed84-71f4-45e6-ad90-b955326c7c05.png)
+<img width="540" alt="ann9" src="https://user-images.githubusercontent.com/106359564/228978430-b073a1a3-0ba5-4f46-be34-e11b8611a7fb.png">
+<img width="553" alt="ann10" src="https://user-images.githubusercontent.com/106359564/228979468-52b871d3-2af1-4840-9cfe-30677d588b27.png">
+
 
 
 o	To improve the performance I dropped one less column "NAME" from the original model which dropped two columns that included "EIN and "NAME". I also decreased the number of values for "NAME" and "ASK_AMT". Lastly, I used three ReLu activation hidden layers. The first layer had 90 neurons, the second had 40, and the third had 10.
