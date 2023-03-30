@@ -6,6 +6,7 @@ For this project, I utilized a neural network machine-learning model using the s
 
 ## Results
 •	Data Preprocessing
+
 o	The chosen target for the model was the "IS_SUCCESSFUL" variable.
 
 <img width="532" alt="ann11" src="https://user-images.githubusercontent.com/106359564/228979529-40db0025-c014-44d2-b729-fc462b1392d2.png">
@@ -21,6 +22,7 @@ o	The "EIN" and "NAME" columns were removed from the features of this model.
 
 
 •	Compiling, Training, and Evaluating the Model
+
 o	There were two hidden layers chosen for the model. The first layer had 80 neurons and the second had 40. The activation functions chosen for both input layers were ReLU. Since the predicting model is nonlinear, the ReLu is a reliable activation function for this scenario. The Sigmoid activation function was chosen for the output for its capability of prediction target.
 
 <img width="619" alt="ann8" src="https://user-images.githubusercontent.com/106359564/228977525-67279560-1f47-47df-a613-26c7aa060168.png">
