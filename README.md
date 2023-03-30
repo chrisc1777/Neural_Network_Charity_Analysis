@@ -25,8 +25,8 @@ o	There were two hidden layers chosen for the model. The first layer had 80 neur
 
 o	My original model was only able to receive an accuracy score of 72.5%. After making changes for my second attempt, I was able to achieve a target performance of over 75%. The final accuracy score of the model was 78%.
 
+<img width="540" alt="ann9" src="https://user-images.githubusercontent.com/106359564/228978323-2e8a83d2-81ed-48c5-b51c-4dfa01acbbd7.png">
 ![ann4](https://user-images.githubusercontent.com/106359564/228893530-412aed84-71f4-45e6-ad90-b955326c7c05.png)
-<img width="454" alt="ann9" src="https://user-images.githubusercontent.com/106359564/228977565-b03cbdd3-9e8b-4b56-b8ff-2a7c9fdada5d.png">
 
 
 o	To improve the performance I dropped one less column "NAME" from the original model which dropped two columns that included "EIN and "NAME". I also decreased the number of values for "NAME" and "ASK_AMT". Lastly, I used three ReLu activation hidden layers. The first layer had 90 neurons, the second had 40, and the third had 10.
