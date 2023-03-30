@@ -31,13 +31,12 @@ o	My original model was only able to receive an accuracy score of 72.5%. After m
 <img width="553" alt="ann10" src="https://user-images.githubusercontent.com/106359564/228979468-52b871d3-2af1-4840-9cfe-30677d588b27.png">
 
 
-
 o	To improve the performance I dropped one less column "NAME" from the original model which dropped two columns that included "EIN and "NAME". I also decreased the number of values for "NAME" and "ASK_AMT". Lastly, I used three ReLu activation hidden layers. The first layer had 90 neurons, the second had 40, and the third had 10.
 
-![ann2](https://user-images.githubusercontent.com/106359564/228892699-13cc4022-b55f-4278-aed7-87e74362da86.png)
-![ann5](https://user-images.githubusercontent.com/106359564/228893846-6fded30a-85ec-4867-b32f-eb4c7ef59a22.png)
-![ann6](https://user-images.githubusercontent.com/106359564/228893862-a0ec1357-e3f2-44d8-a5e0-0c0885acea26.png)
-![ann3](https://user-images.githubusercontent.com/106359564/228893387-4a456d49-5d55-4f7d-a400-f0ef9c03959c.png)
+<img width="479" alt="ann1" src="https://user-images.githubusercontent.com/106359564/228981456-6e1b9992-a39e-4e9a-8d87-ea0119d85799.png">
+<img width="570" alt="ann2" src="https://user-images.githubusercontent.com/106359564/228981465-e354fa5e-122a-4c96-9927-7c1984ebd435.png">
+<img width="551" alt="ann3" src="https://user-images.githubusercontent.com/106359564/228981471-2382f53f-fdc3-4c53-b1f1-48499272358d.png">
+<img width="668" alt="ann4" src="https://user-images.githubusercontent.com/106359564/228981477-547a5692-0e3e-4da7-9a23-7e2415d3154e.png">
 
 
 ## Summary
