@@ -7,6 +7,7 @@ For this project, I utilized a neural network machine-learning model using the s
 ## Results
 •	Data Preprocessing
 o	The chosen target for the model was the "IS_SUCCESSFUL" variable.
+
 <img width="532" alt="ann11" src="https://user-images.githubusercontent.com/106359564/228979529-40db0025-c014-44d2-b729-fc462b1392d2.png">
 
 
