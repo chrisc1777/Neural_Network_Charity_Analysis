@@ -25,7 +25,7 @@ o	There were two hidden layers chosen for the model. The first layer had 80 neur
 
 o	My original model was only able to receive an accuracy score of 72.5%. After making changes for my second attempt, I was able to achieve a target performance of over 75%. The final accuracy score of the model was 78%.
 
-<img width="540" alt="ann9" src="https://user-images.githubusercontent.com/106359564/228978323-2e8a83d2-81ed-48c5-b51c-4dfa01acbbd7.png">
+!<img width="540" alt="ann9" src="https://user-images.githubusercontent.com/106359564/228978430-b073a1a3-0ba5-4f46-be34-e11b8611a7fb.png">
 ![ann4](https://user-images.githubusercontent.com/106359564/228893530-412aed84-71f4-45e6-ad90-b955326c7c05.png)
 
 
