@@ -5,8 +5,8 @@ Alphabet Soup is a non-profit foundation that dedicates funding to life-saving t
 For this project, I utilized a neural network machine-learning model using the scikit-learn and Tensorflow library in Jupyter Notebook. With the "Charity" dataset I was able to preprocess the applications of 34,000 fundraising foundations. Once preprocessed, that data was compiled, trained, and evaluated for accuracy in the predicting model. 
 
 ## Results
-•	Data Preprocessing
-o	The chosen target for the model was the "IS_SUCCESSFUL" variable.
+### Data Preprocessing
+* The chosen target for the model was the "IS_SUCCESSFUL" variable.
 
 <img width="532" alt="ann11" src="https://user-images.githubusercontent.com/106359564/228979529-40db0025-c014-44d2-b729-fc462b1392d2.png">
 
